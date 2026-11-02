@@ -72,14 +72,10 @@ header h1{
     padding-left: 20px;
 }
 
-nav{
-    gap: 16px;
-}
+
 
 nav a {
     display: flex;
     color: white;
     flex-direction: column;
-   
-  
 }
